@@ -53,4 +53,4 @@ The following text content is translated for each language:
 ### Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rick-and-morty-explorer.git
+   git clone https://github.com/imeririnesa/rick-and-morty-explorer.git
